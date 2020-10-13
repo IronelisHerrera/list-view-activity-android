@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">list_view</string>
+    <string name="app_name">Deportes</string>
     <string name="select_sport_title">SELECCIONE UN DEPORTE</string>
     <string name="textview">Usted ha elegido: </string>
 </resources>
